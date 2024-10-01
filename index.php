@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "Hello World!";
+echo "Hello World!3ttyuu";
 echo str_word_count("hello world!")
 ?>
 <form action=<?php echo $_SERVER['PHP_SELF'];?> method="post">
